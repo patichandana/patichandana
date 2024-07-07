@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ ![visits](https://countvisits.chandana.dev/visits/patichandana)
+
 <!--
 **patichandana/patichandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
